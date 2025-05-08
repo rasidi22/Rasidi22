@@ -1,6 +1,6 @@
 ## Hello guys I'm Rasidi 🙌
 
-![RASIDI](download.jpeg)
+![RASIDI](download.png)
 
 <!--
 **rasidi22/Rasidi22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
